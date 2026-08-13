@@ -1,0 +1,1760 @@
+{
+  "items": [
+    {
+      "description": "The body of a UAV depends on the kind of aircraft and is optimized for it's usecase. Is it high speed for racing, improved agility for acrobatic freestyle, a heavy lifter for filming , long distance observations, ... . This requirements result in different mechanics and materials and take DIY aspect into account.\nYou will find also a lot of spare parts or mods / extensions to commercial vehicles, which we don't list up here!",
+      "items": [],
+      "title": "Airframes"
+    },
+    {
+      "description": "Copters are built using different materials from alu / carbon profiles to CNC cuts to full 3D printed cases and have different configurations for different number of rotors (bi... octo):",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TBS Source One",
+          "description": "Carbon racing frame in 5 revisions, 2021.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-17T04:37:09Z",
+            "owner": "tbs-trappy",
+            "repo": "source_one",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JeNo 5.1\"",
+          "description": "Modern carbon wide X-frame with accessoirs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-16T21:14:24Z",
+            "owner": "WE-are-FPV",
+            "repo": "JeNo-5.1",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TBS Source X",
+          "description": "Carbon racing frame, 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-06-10T19:05:15Z",
+            "owner": "ps915",
+            "repo": "source_x",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TBS Source Podracer",
+          "description": "3D carbon racing frame, 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-18T11:14:03Z",
+            "owner": "ps915",
+            "repo": "source_podracer",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Multicopters 🚁"
+    },
+    {
+      "description": "Usually brushless DC motors (BLDC) are used for their power and precision. They require Electronic Speed Controller (ESC) per motor.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BLheli_S",
+          "description": "Popular Firmware for ESCs with fine-grained control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-08-21T07:30:10Z",
+            "owner": "bitdump",
+            "repo": "BLHeli",
+            "stars": 2225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AM32-MultiRotor-ESC-FW",
+          "description": "DSHOT, telemetry, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:28:53Z",
+            "owner": "am32-firmware",
+            "repo": "AM32",
+            "stars": 912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueJay",
+          "description": "BLheli fork, Digital ESC firmware for controlling brushless motors. More features like custom melodies. Since 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-08-31T23:49:29Z",
+            "owner": "mathiasvr",
+            "repo": "bluejay",
+            "stars": 554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESC Configurator",
+          "description": "Web app to setup your BLHeli / Bluejay ESC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T09:12:04Z",
+            "owner": "stylesuxx",
+            "repo": "esc-configurator",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MESC FOC ESC",
+          "description": "Open Hardware and Firmware for STM32 basrd ESC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-02T12:46:56Z",
+            "owner": "davidmolony",
+            "repo": "MESC_FOC_ESC",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIDtoolbox",
+          "description": "tuning your PID settings for max. performance of your specific modell.",
+          "children": []
+        }
+      ],
+      "title": "Motor Control ⚙️"
+    },
+    {
+      "description": "Modern autopilot software require STM32 based boards with F4/F7 chip generation and usually no longer support legacy boards like NAZE32, CC3D, ArduPilot, etc. Most projects are base on Baseflight / Cleanflight firmware and Desktop Configurator.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "betaflight",
+          "description": "Focus on racing and agility for wings and copters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T20:46:15Z",
+            "owner": "betaflight",
+            "repo": "betaflight",
+            "stars": 11406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CleanFlight",
+          "description": "Legacy fork of baseflight , stall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-20T18:37:55Z",
+            "owner": "cleanflight",
+            "repo": "cleanflight",
+            "stars": 2732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paparazzi UAV",
+          "description": "?.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T19:59:15Z",
+            "owner": "paparazzi",
+            "repo": "paparazzi",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dRehmflight",
+          "description": "Dedicated to VTOLs and it's transformation during flight process, Teensy Boards only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-20T21:56:04Z",
+            "owner": "nickrehm",
+            "repo": "dRehmFlight",
+            "stars": 1425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaseFlight",
+          "description": "Legacy and oldest FW of the days of Wii gyro hacks and 8bit, stall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-01-18T22:04:53Z",
+            "owner": "multiwii",
+            "repo": "baseflight",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmuFlight",
+          "description": "Focus on modern algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T12:42:37Z",
+            "owner": "emuflight",
+            "repo": "EmuFlight",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "madflight",
+          "description": "For Arduino based target boards, different sensors supported, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:03:10Z",
+            "owner": "qqqlab",
+            "repo": "madflight",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibrePilot",
+          "description": "Stall since 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-14T14:03:07Z",
+            "owner": "librepilot",
+            "repo": "LibrePilot",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dRonin",
+          "description": "Supporting Openpilot and other target boards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-09-13T11:52:50Z",
+            "owner": "d-ronin",
+            "repo": "dRonin",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QUICKSILVER firmware",
+          "description": "?.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T13:28:55Z",
+            "owner": "BossHobby",
+            "repo": "QUICKSILVER",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Cube Autopilot",
+          "description": "FC hardware like the Pixhawk 2,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-02T21:45:24Z",
+            "owner": "proficnc",
+            "repo": "The-Cube",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPR-Rocket-Flight-Computer",
+          "description": "High speed rockets firmware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-07T03:46:01Z",
+            "owner": "SparkyVT",
+            "repo": "HPR-Rocket-Flight-Computer",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rotorflight",
+          "description": "Firmware for traditional single-rotor helicopters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-23T19:11:29Z",
+            "owner": "rotorflight",
+            "repo": "rotorflight",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INAV",
+          "description": "Focus on GPS based flight planning / autonomous flights for wings and copters.",
+          "children": []
+        }
+      ],
+      "title": "Flight Control 👨‍✈️"
+    },
+    {
+      "description": "Radio control transmitters (RC TX, your side) support extension bays with the JR / JR lite formfactor and serial interfaces to adapt to different radio protocols. See also Ground station. Most receivers (RX, drone side) support standard serial protocols like Crossfire (CSRF) to talk with the FC.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EdgeTX",
+          "description": "Successor of OpenTX under active development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T23:57:16Z",
+            "owner": "EdgeTX",
+            "repo": "edgetx",
+            "stars": 2391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTX",
+          "description": "Firmware for popular handtransmitters including Desktop manager and sound packs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T21:10:23Z",
+            "owner": "opentx",
+            "repo": "opentx",
+            "stars": 2184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino Transmitter for ELRS",
+          "description": "Simple gamepad like hand transmitter based on Arduino",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-05T06:31:53Z",
+            "owner": "kkbin505",
+            "repo": "Arduino-Transmitter-for-ELRS",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELRS-Joystick-Control",
+          "description": "ELRS Module directly connected to GCS with joysticks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-12T07:30:05Z",
+            "owner": "kaack",
+            "repo": "elrs-joystick-control",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freedomTX",
+          "description": "OpenTX fork, stall since 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-08T06:25:29Z",
+            "owner": "tbs-fpv",
+            "repo": "freedomtx",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAVRc",
+          "description": "Custom TX based on Arduino Mega2560 boards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T10:05:07Z",
+            "owner": "Ingwie",
+            "repo": "OpenAVRc_Hw",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentx-lua-widgets",
+          "description": "More UI widgets to present telemetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-12-07T19:03:26Z",
+            "owner": "Matze-Jung",
+            "repo": "opentx-lua-widgets",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTx",
+          "description": "Stripped down betaflight Lua script to control only your VTX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-01-30T19:33:20Z",
+            "owner": "teckel12",
+            "repo": "VTx",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentx-lua-running-graphs",
+          "description": "More visual graphs as widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-11-12T21:29:18Z",
+            "owner": "Matze-Jung",
+            "repo": "opentx-lua-running-graphs",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "betaflight-tx-lua-scripts",
+          "description": "Extended BF lua script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-09-27T21:28:16Z",
+            "owner": "Matze-Jung",
+            "repo": "betaflight-tx-lua-scripts",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTX-Pong",
+          "description": "Simple game for your TX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-09-30T00:11:53Z",
+            "owner": "SpechtD",
+            "repo": "OpenTX-Pong",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inav-opentx-sounds",
+          "description": "Addon sounds for modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-04-03T03:47:18Z",
+            "owner": "JyeSmith",
+            "repo": "inav-opentx-sounds",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "RC Transmitters & Handcontroller 🎮"
+    },
+    {
+      "description": "Hardware and firmware to establish custom radio links. Nowadays usually a bidirectional link, so pure TX / RX side.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ExpressLRS",
+          "description": "ELRS for long range or better latency. support. flashing some existing hardware, but also provide commercial modules for 868/915 MHz or 2.4 / 5.8 GHz.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ELRS Airport Firmware",
+              "description": "2 way link for more complex telemetry downlink.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-13T17:31:59Z",
+                "owner": "ExpressLRS",
+                "repo": "ExpressLRS",
+                "stars": 5238
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T17:31:59Z",
+            "owner": "ExpressLRS",
+            "repo": "ExpressLRS",
+            "stars": 5238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi Module",
+          "description": "Supports different protocols like FrSky, FlySky, Walkera, Futaba, ... .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:20:54Z",
+            "owner": "pascallanger",
+            "repo": "DIY-Multiprotocol-TX-Module",
+            "stars": 1886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mLRS",
+          "description": "Mavlink compatible LRS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T17:02:30Z",
+            "owner": "olliw42",
+            "repo": "mLRS",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openLRSng",
+          "description": "Next generation of OpenLRS, stall since 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-11-22T12:06:02Z",
+            "owner": "openLRSng",
+            "repo": "openLRSng",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raven LRS",
+          "description": "Lora based, 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-04T11:49:50Z",
+            "owner": "RavenLRS",
+            "repo": "raven",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Modules 🧩"
+    },
+    {
+      "description": "Videotransmitter (VTX) are analog or digital radio transmitter on your drone, which send usually a videostream of your front camera (first person view - FPV) but can also transmit arbitrary information or establish a somewhat regular bidirectional link between the drone and a groundstation which also offers control uplink etc. See also Ground station.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenHD",
+          "description": "Use 2.4 / 5.8 GHz wifi hardware and SBCs on air and groundside to provide a video and telemetry downlink and an optional control uplink. Try to develop a more efficient dedicated hardware board. Compare different open digital links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:43:23Z",
+            "owner": "OpenHD",
+            "repo": "OpenHD",
+            "stars": 2442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wifibroadcast NG",
+          "description": "Use 2.4 / 5.8 GHz wifi hardware and RPIs to provide a video and telemetry downlink.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:27:10Z",
+            "owner": "svpcom",
+            "repo": "wfb-ng",
+            "stars": 1506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneBridge",
+          "description": "Use 2.4 GHz wifi hardware and RPIs, ESP32 and Android App for bidirectional link, Comparison to the other protocols here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-07T15:36:13Z",
+            "owner": "DroneBridge",
+            "repo": "DroneBridge",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EZ Wifibroadcast",
+          "description": "Oldest and first wifi based VTX setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-31T14:53:54Z",
+            "owner": "rodizio1",
+            "repo": "EZ-WifiBroadcast",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVTx",
+          "description": "Free firmware for open hardware anlog VTX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-04T08:42:31Z",
+            "owner": "OpenVTx",
+            "repo": "OpenVTx",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtfos",
+          "description": "Rooting and mod DJI FPV sender and receiver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-13T07:19:05Z",
+            "owner": "fpv-wtf",
+            "repo": "wtfos",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hx-esp32-cam-fpv",
+          "description": "Cheap ESPcam boards transimitting MJPEG frames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T12:01:38Z",
+            "owner": "RomanLut",
+            "repo": "hx-esp32-cam-fpv",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigiView-SBC",
+          "description": "Receive DJI HD signal, alpha 2021.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-06-23T16:29:42Z",
+            "owner": "fpvout",
+            "repo": "DigiView-SBC",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wfb-ng on OpenIPC",
+          "description": "Wifibroadcast NG on OpenIPC compatible CCTV modules, capable of 120fps or 4k video feeds with telemetry. Existing commercial kits from various vendors (aka. EMAX Wyvern Link, Runcam Wifilink).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-10T03:02:02Z",
+            "owner": "OpenIPC",
+            "repo": "sandbox-fpv",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTX Power Measure",
+          "description": "Python scripting the Immersion RF-Meter V2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-29T15:20:00Z",
+            "owner": "mrRobot62",
+            "repo": "vtx_power_measure",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "VTX 📺"
+    },
+    {
+      "description": "Cameras feed the onboard videotransmitter for downlink or record as DVR with higher quality. See also VTX for custom systems which allow you different camera setups.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gyroflow",
+          "description": "Use IMU sensor data to smooth HD video recordings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-16T19:16:49Z",
+            "owner": "gyroflow",
+            "repo": "gyroflow",
+            "stars": 9304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentrack",
+          "description": "Use integrated trackers of FPV googles or VR headsets as input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T05:17:47Z",
+            "owner": "opentrack",
+            "repo": "opentrack",
+            "stars": 5055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STORM32BGC",
+          "description": "Firmware and brushless gimbal controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-30T08:38:51Z",
+            "owner": "olliw42",
+            "repo": "storm32bgc",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RC Headtracker",
+          "description": "Turn camera gimbal when you turn your googles. Based on Arduino and Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-14T19:55:33Z",
+            "owner": "headtracker",
+            "repo": "HeadTracker",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TetraPI",
+          "description": "Multispectra RPI based camera module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-26T13:41:04Z",
+            "owner": "bluegreen-labs",
+            "repo": "TetraPi",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Camera & Gimbals 🎥"
+    },
+    {
+      "description": "Googles have modul bays to support different radio protocols or HDMI input. See also VTX for custom systems which allow you different camera setups.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FENIX-rx5808-pro-diversity",
+          "description": "Open Hardware 5,8GHz analog module with diversity for googles.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rx5808 pro divesity",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-02-21T17:07:53Z",
+                "owner": "sheaivey",
+                "repo": "rx5808-pro-diversity",
+                "stars": 744
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-06T00:50:24Z",
+            "owner": "JyeSmith",
+            "repo": "FENIX-rx5808-pro-diversity",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rpi-rx5808-stream",
+          "description": "RPI based 5,8GHz analog with diversity streaming server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-20T23:28:44Z",
+            "owner": "xythobuz",
+            "repo": "rpi-rx5808-stream",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Video Receivers 📶"
+    },
+    {
+      "description": "Transceiver as well as receivers can be tweaked with custom antenna configurations and tracker can support directional antennas. They use multiple receivers and diversity, or telemetry to point to your drone. This is more professional equipment to do beyond VLOS flights and not needed for novice pilots. There are also approaches to use 4G for video and control link for extra extend.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "u360gts",
+          "description": "360° motor tracker using F2/F3 controllers that control, firmware + hardware + case, 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T10:57:50Z",
+            "owner": "raul-ortega",
+            "repo": "u360gts",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntTracker",
+          "description": "Servo based using F1 / ESP8266 / ESP32 controllers, 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-04T13:44:04Z",
+            "owner": "zs6buj",
+            "repo": "AntTracker",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open360tracker",
+          "description": "360° servo tracker 2016.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amv-open360tracker",
+              "description": "Fork 2016.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2016-03-10T22:47:35Z",
+                "owner": "raul-ortega",
+                "repo": "amv-open360tracker",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amv-open360tracker 36bit",
+              "description": "Fork 2016.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-06-03T20:46:52Z",
+                "owner": "ericyao2013",
+                "repo": "amv-open360tracker-32bits",
+                "stars": 1
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-11-02T20:20:30Z",
+            "owner": "SamuelBrucksch",
+            "repo": "open360tracker",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Antennas and Trackers 📡"
+    },
+    {
+      "description": "Sensor values and control information are shared via common serial protocols which can be recorded onboard (blackbox) on internal SD cards at FC, or transferred to your TX handset or Groundstation. Useful to find lost drones, as well as debug and tune PID and flight behavior",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MAVlink",
+          "description": "Modern extensible protocol from hobbiests ... commercial UAV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:57:40Z",
+            "owner": "mavlink",
+            "repo": "mavlink",
+            "stars": 2392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "betaflight-tx-lua-scripts",
+          "description": "Script to show telemetry and control e.g. CAM, VTX settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-09T16:40:39Z",
+            "owner": "betaflight",
+            "repo": "betaflight-tx-lua-scripts",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLog",
+          "description": "With blackbox firmware for blackbox data recorder (today usually part of main FC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-28T21:52:42Z",
+            "owner": "sparkfun",
+            "repo": "OpenLog",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PID-Analyzer",
+          "description": "Read blackbox and tune PID control variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-04T17:39:28Z",
+            "owner": "Plasmatree",
+            "repo": "PID-Analyzer",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuaTelemetry",
+          "description": "OpenTX / EdgeTX script that renders live cockpit and map from telemetry datastream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-10-03T11:24:06Z",
+            "owner": "teckel12",
+            "repo": "LuaTelemetry",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAVLogViewer",
+          "description": "Web application for Ardupilot logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T17:58:08Z",
+            "owner": "ArduPilot",
+            "repo": "UAVLogViewer",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openXsensor",
+          "description": "Convert and alter telemetry protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-30T13:49:32Z",
+            "owner": "openXsensor",
+            "repo": "openXsensor",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YAMSPy",
+          "description": "Read MSP serial protocol with Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-08T19:55:28Z",
+            "owner": "thecognifly",
+            "repo": "YAMSPy",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INAV blackbox viewer",
+          "description": "Render sensor / motor values as video overlay OSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-24T13:31:14Z",
+            "owner": "iNavFlight",
+            "repo": "blackbox-log-viewer",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "otxtelemetry",
+          "description": "OpenTX / EdgeTX script to add Mavlink support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-12-26T21:39:36Z",
+            "owner": "olliw42",
+            "repo": "otxtelemetry",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INAV blackbox tools",
+          "description": "Convert to CSV timeseries files or as visual OSD overlay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-17T10:39:43Z",
+            "owner": "iNavFlight",
+            "repo": "blackbox-tools",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flightlog2x",
+          "description": "Convert blackbox logs of INAV, OpenTX, ... to CSV, GPX, KML and render tracks and trajectory with different performance styles, separate GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-10-23T15:43:31Z",
+            "owner": "stronnag",
+            "repo": "bbl2kml",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSD-subtitles",
+          "description": "Render Blackbox logs to OSD as subtitle for synconous plaback with video file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-03-09T22:03:05Z",
+            "owner": "kristjanbjarni",
+            "repo": "osd-subtitles",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Telemetry & Logs 📊"
+    },
+    {
+      "description": "Ground Control Stations (GCS) on laptops / tablets allow better overview of flight parameters and position for mission control during long range / time flights. Also see Ardupilot.org - Choosing GCS.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QGroundControl",
+          "description": "Mavlink, Desktop and mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T21:17:13Z",
+            "owner": "mavlink",
+            "repo": "qgroundcontrol",
+            "stars": 4842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mwptools",
+          "description": "Waypoint mission planner esp. for INAV including INAV Radar and ADS-B sources.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-11-09T22:26:30Z",
+            "owner": "stronnag",
+            "repo": "mwptools",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dreka GCS",
+          "description": "A new GCS (currently limited but more modern look & feel).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2022-10-27T09:53:47Z",
+            "owner": "Midgrad",
+            "repo": "Dreka",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BulletGCSS",
+          "description": "Uses GSM and MQTT for extra long range links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T14:06:12Z",
+            "owner": "danarrib",
+            "repo": "BulletGCSS",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Mission Control & Basestation 🗺️"
+    },
+    {
+      "description": "Your FC is focused on realtime control for maneuvers, while additional computers add ressources for more complex data processing, see also Arudpilot.org - Companion Computers and digital VTX systems above.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ROS",
+          "description": "Robot Operating System, to handle more complex and interactive flights.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-31T17:36:03Z",
+            "owner": "ros",
+            "repo": "ros",
+            "stars": 3249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneKit",
+          "description": "Multi platform integration ecosystem including Mavlink radio link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-30T05:57:20Z",
+            "owner": "dronekit",
+            "repo": "dronekit-python",
+            "stars": 1923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "öchìn CM4",
+          "description": "RPI Compute Module carrier board dedicated for FC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-09T06:32:19Z",
+            "owner": "ochin-space",
+            "repo": "ochin-CM4",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "Companion Computers & Integration 💻"
+    },
+    {
+      "description": "CV is on the processing of what you see at the UAV live image or recordings. This is about aerial mapping, or machine learning powered flight planning. See also UAV Mapping Guidelines.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fast-Planner",
+          "description": "Learn drones to avoid obstacles on the course.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-24T13:12:43Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "Fast-Planner",
+            "stars": 3385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faster",
+          "description": "ML let drones learn to avoid obstacles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-10T22:43:56Z",
+            "owner": "mit-acl",
+            "repo": "faster",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anti-UAV",
+          "description": "ML detect quadcopters within IR / RGB videos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T10:51:21Z",
+            "owner": "ZhaoJ9014",
+            "repo": "Anti-UAV",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAerialMap",
+          "description": "Share Drone shots for disaster response etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T16:58:09Z",
+            "owner": "hotosm",
+            "repo": "openaerialmap",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneDB",
+          "description": "Store and archive drone shots and aerial imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:13:32Z",
+            "owner": "DroneDB",
+            "repo": "DroneDB",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire Detection UAV",
+          "description": "ML learn drones to spot fire.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-06T18:20:33Z",
+            "owner": "AlirezaShamsoshoara",
+            "repo": "Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drone-net",
+          "description": "ML detect quadcopters within photos / videos using YOLO v4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-01T10:45:51Z",
+            "owner": "chuanenlin",
+            "repo": "drone-net",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneAid",
+          "description": "ML find persons in disaster response by emergency markers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-24T02:29:35Z",
+            "owner": "Call-for-Code",
+            "repo": "DroneAid",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAthena",
+          "description": "Auto GCP detection using markers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-29T03:21:03Z",
+            "owner": "Theta-Limited",
+            "repo": "OpenAthena-Legacy-Python",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirPose",
+          "description": "ML human pose estimation from drone perspective.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-21T18:30:12Z",
+            "owner": "robot-perception-group",
+            "repo": "AirPose",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVCBet",
+          "description": "ML segmentation of areas for aerial imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-29T11:02:29Z",
+            "owner": "lironui",
+            "repo": "ABCNet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BANet",
+          "description": "ML segmentation of areas for aerial imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-29T17:44:04Z",
+            "owner": "lironui",
+            "repo": "BANet",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AruCo landing",
+          "description": "ML ROS addon to land on marker positions",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-11T18:11:12Z",
+            "owner": "radekholy24",
+            "repo": "aruco-landing",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Computer Vision 🤖"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security & Safety 🪂"
+    },
+    {
+      "description": "Before you damage any hardware you can learn to avoid common pitfalls and train by virtual flights using your handhelt TX. Other allow to test / benchmark autopilots to work in controlled environments.\nThe most consumer friendly trainer simulators are commercial, but available for Linux, macOS as well (Freerider Recarged, Liftoff, DRL Sim, Velocidrone.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AirSim",
+          "description": "By Microsoft for algorithm testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T19:34:07Z",
+            "owner": "microsoft",
+            "repo": "AirSim",
+            "stars": 18396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSBsim",
+          "description": "With bindings to Python, Matlab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T15:53:33Z",
+            "owner": "JSBSim-Team",
+            "repo": "jsbsim",
+            "stars": 2193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAZEBOsim",
+          "description": "Multi robot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:34:44Z",
+            "owner": "gazebosim",
+            "repo": "gz-sim",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jMAVSim",
+          "description": "For Mavlink.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-29T03:34:12Z",
+            "owner": "PX4",
+            "repo": "jMAVSim",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picasim",
+          "description": "For rc planes, closed source, sucessor of SSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-16T14:28:58Z",
+            "owner": "Rowlhouse",
+            "repo": "PicaSim",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Simulators 🌐"
+    },
+    {
+      "description": "Malfunction can have dramatic consequences, as well as your drone can cause massive damages. To avoid unnecessary risks, a step by step protocol and documentation is mandatory for every flight in case you might use your insurance.",
+      "items": [],
+      "title": "Checklists 📋"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "build power check"
+    },
+    {
+      "description": "We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoftRF",
+          "description": "Nano edition, supports also FLARM and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T18:13:15Z",
+            "owner": "lyusupov",
+            "repo": "SoftRF",
+            "stars": 999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stratux",
+          "description": "Share position and course via different radio transmitters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-09T13:36:55Z",
+            "owner": "stratux",
+            "repo": "stratux",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADS-B transmitters of airplanes can be received using software defined radios can be realized using cheap USB DVB-T receivers. Can be integrated via radar extensions like mwp-radar-view",
+          "description": ", Ardupilot ADS-B receiver or in OpenHD. Is part of Mavlink protocol and shows up on most GCS. Can also be viewed online like adsb-exchange.com.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-11-09T22:26:30Z",
+            "owner": "stronnag",
+            "repo": "mwptools",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArduPilot RemoteID Transmitter",
+          "description": "FCC RemoteID with Mavlink and DroneCAN integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-04T07:40:12Z",
+            "owner": "ArduPilot",
+            "repo": "ArduRemoteID",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INAV Radar",
+          "description": "LORA radio and ESP32 broadcast positions and show it at your OSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-02T09:39:53Z",
+            "owner": "OlivierC-FR",
+            "repo": "ESP32-INAV-Radar",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WiFi RID capture",
+          "description": "Capture remote identification signals with sniffer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-20T15:20:17Z",
+            "owner": "sxjack",
+            "repo": "unix_rid_capture",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "ID Systems 🛂"
+    },
+    {
+      "description": "Radio links per se are unsafe and can easily be jammed.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Drone-ID Receiver for DJI OcuSync 2.0",
+          "description": "Decoding DJI radio transmissions including DroneID and pilot location with SDR in python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-10T12:58:04Z",
+            "owner": "RUB-SysSec",
+            "repo": "DroneSecurity",
+            "stars": 1303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RemoteID Spammer/Spoofer",
+          "description": "An ESP8266/NodeMCU Drone RemoteID Spoofer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-26T10:44:47Z",
+            "owner": "jjshoots",
+            "repo": "RemoteIDSpoofer",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RFUAV",
+          "description": "Radio based drone detection and signal fingerprinting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T05:52:21Z",
+            "owner": "kitoweeknd",
+            "repo": "RFUAV",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drone Remote ID Monitoring System",
+          "description": "Webfrontend to map DJI drones using their RemoteID.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T10:56:14Z",
+            "owner": "cyber-defence-campus",
+            "repo": "RemoteIDReceiver",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robot Vulnerability Database",
+          "description": "CVEs for semi-autonomous machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T12:54:42Z",
+            "owner": "aliasrobotics",
+            "repo": "RVD",
+            "stars": 241
+          }
+        }
+      ],
+      "title": "Hacking & Hijacking 🔓"
+    },
+    {
+      "description": "With 3D printing it is easy to get useful addons for your equipment and models",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Delta 5 race timer",
+          "description": "Use 5.8GHz video signals to trigger lap counter.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RotorHazard",
+              "description": "Sucessor with multinode and central RPI server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-27T14:24:37Z",
+                "owner": "RotorHazard",
+                "repo": "RotorHazard",
+                "stars": 261
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-08T23:06:49Z",
+            "owner": "scottgchin",
+            "repo": "delta5_race_timer",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capture The Flag for drones",
+          "description": "Optical system to emulate a flag for close team-fights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-10-12T14:50:23Z",
+            "owner": "SeekND",
+            "repo": "CaptureTheFlag",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Accesoirs 🪠"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:59:17.944Z",
+    "original_repository": "Matthias84/awesome-flying-fpv",
+    "original_repository_sha": "2d1764ddf480e27f013efaab4b4be19047ada99c",
+    "enhanced_repository": "enhansome/enhansome-flying-fpv",
+    "enhanced_repository_description": null,
+    "title": "Awesome Flying FPV with stars"
+  }
+}
