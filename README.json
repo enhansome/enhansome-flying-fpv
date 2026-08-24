@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-16T21:14:24Z",
                 "owner": "WE-are-FPV",
                 "repo": "JeNo-5.1",
-                "stars": 75
+                "stars": 76
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2019-06-10T19:05:15Z",
                 "owner": "ps915",
                 "repo": "source_x",
-                "stars": 47
+                "stars": 48
               }
             },
             {
@@ -69,6 +69,28 @@
           "description": "Copters are built using different materials from alu / carbon profiles to CNC cuts to full 3D printed cases and have different configurations for different number of rotors (bi... octo):",
           "node_type": "group",
           "title": "Multicopters 🚁"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniHawk-VTOL v2.0",
+              "description": "3d printed with 3 props",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272554901,
+                "language": null,
+                "last_commit": "2022-06-19T06:41:38Z",
+                "owner": "StephenCarlson",
+                "repo": "MiniHawk-VTOL",
+                "stars": 318
+              }
+            }
+          ],
+          "description": "Vertical take-off and landing are air vehicles that transform from copter to a gliding wing, making it very easy to start/land but require a more complex mechanic and become a tip heavier than fixed wings.",
+          "node_type": "group",
+          "title": "VTOLs 🚀"
         }
       ],
       "title": "Airframes"
@@ -103,7 +125,7 @@
             "last_commit": "2026-08-12T20:28:53Z",
             "owner": "am32-firmware",
             "repo": "AM32",
-            "stars": 920
+            "stars": 924
           }
         },
         {
@@ -169,7 +191,7 @@
             "last_commit": "2026-08-23T16:21:53Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11446
+            "stars": 11450
           }
         },
         {
@@ -199,7 +221,7 @@
             "last_commit": "2026-08-21T11:49:42Z",
             "owner": "paparazzi",
             "repo": "paparazzi",
-            "stars": 1708
+            "stars": 1709
           }
         },
         {
@@ -367,7 +389,7 @@
             "archived": false,
             "id": 364871330,
             "language": "C",
-            "last_commit": "2026-08-23T10:42:46Z",
+            "last_commit": "2026-08-24T11:11:35Z",
             "owner": "EdgeTX",
             "repo": "edgetx",
             "stars": 2399
@@ -557,7 +579,7 @@
                     "last_commit": "2026-08-20T23:34:24Z",
                     "owner": "ExpressLRS",
                     "repo": "ExpressLRS",
-                    "stars": 5276
+                    "stars": 5279
                   }
                 }
               ],
@@ -568,7 +590,7 @@
                 "last_commit": "2026-08-20T23:34:24Z",
                 "owner": "ExpressLRS",
                 "repo": "ExpressLRS",
-                "stars": 5276
+                "stars": 5279
               }
             },
             {
@@ -654,7 +676,7 @@
             "last_commit": "2026-08-21T15:10:08Z",
             "owner": "OpenHD",
             "repo": "OpenHD",
-            "stars": 2646
+            "stars": 2647
           }
         },
         {
@@ -810,7 +832,7 @@
             "last_commit": "2026-07-16T19:16:49Z",
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 9350
+            "stars": 9354
           }
         },
         {
@@ -825,7 +847,7 @@
             "last_commit": "2026-08-22T02:14:53Z",
             "owner": "opentrack",
             "repo": "opentrack",
-            "stars": 5071
+            "stars": 5073
           }
         },
         {
@@ -875,6 +897,48 @@
         }
       ],
       "title": "Camera & Gimbals 🎥"
+    },
+    {
+      "description": "Global Navigation Systems like GPS allow to determine the current position of your drone. Consumer GPS modules are cheap, but some can be tweaked to gain better accuracy on postprcessing or live.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vicon MavLink",
+          "description": "Get indoor positioning via commercial optical systems for a whole drone swarm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113507573,
+            "language": "C",
+            "last_commit": "2019-06-13T21:34:50Z",
+            "owner": "bo-rc",
+            "repo": "ViconMAVLink",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "GPS 🛰️"
+    },
+    {
+      "description": "A drone uses more sensors like compass, barometer, airspeed or current to increase position estimation, or to show the system performance\nSee Ardupilot - Optional hardware for more ideas.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QLiteOSD",
+          "description": "ESP32 based OSD to read sensors without FC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524826225,
+            "language": "C++",
+            "last_commit": "2024-07-20T19:26:01Z",
+            "owner": "Qrome",
+            "repo": "QLiteOSD",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Sensors 🌡️"
     },
     {
       "description": "Googles have modul bays to support different radio protocols or HDMI input. See also VTX for custom systems which allow you different camera setups.",
@@ -1040,7 +1104,7 @@
             "last_commit": "2026-08-09T16:40:39Z",
             "owner": "betaflight",
             "repo": "betaflight-tx-lua-scripts",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -1561,7 +1625,7 @@
                 "last_commit": "2026-08-23T11:46:32Z",
                 "owner": "JSBSim-Team",
                 "repo": "jsbsim",
-                "stars": 2206
+                "stars": 2209
               }
             },
             {
@@ -1573,10 +1637,10 @@
                 "archived": false,
                 "id": 255865265,
                 "language": "C++",
-                "last_commit": "2026-08-23T09:13:07Z",
+                "last_commit": "2026-08-24T12:24:38Z",
                 "owner": "gazebosim",
                 "repo": "gz-sim",
-                "stars": 1460
+                "stars": 1461
               }
             },
             {
@@ -1625,10 +1689,10 @@
                 "archived": false,
                 "id": 48141669,
                 "language": "C",
-                "last_commit": "2026-08-21T14:18:17Z",
+                "last_commit": "2026-08-24T13:17:58Z",
                 "owner": "lyusupov",
                 "repo": "SoftRF",
-                "stars": 1006
+                "stars": 1005
               }
             },
             {
@@ -1673,7 +1737,7 @@
                 "last_commit": "2025-07-04T07:40:12Z",
                 "owner": "ArduPilot",
                 "repo": "ArduRemoteID",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -1770,7 +1834,7 @@
                 "last_commit": "2026-06-11T10:56:14Z",
                 "owner": "cyber-defence-campus",
                 "repo": "RemoteIDReceiver",
-                "stars": 301
+                "stars": 302
               }
             },
             {
@@ -1844,13 +1908,35 @@
             "repo": "CaptureTheFlag",
             "stars": 21
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "4AxisFoamCutter",
+              "description": "Create aerodynamic wings from foam.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130073824,
+                "language": "nesC",
+                "last_commit": "2021-07-22T15:24:34Z",
+                "owner": "rahulsarchive",
+                "repo": "4AxisFoamCutter",
+                "stars": 102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workbench 🧰"
         }
       ],
       "title": "Accesoirs 🪠"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:35:16.983Z",
+    "last_updated": "2026-08-24T14:19:04.091Z",
     "original_repository": "Matthias84/awesome-flying-fpv",
     "original_repository_id": 531177089,
     "original_repository_sha": "2d1764ddf480e27f013efaab4b4be19047ada99c",
