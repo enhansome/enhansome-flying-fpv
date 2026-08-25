@@ -110,7 +110,7 @@
             "last_commit": "2025-08-21T07:30:10Z",
             "owner": "bitdump",
             "repo": "BLHeli",
-            "stars": 2223
+            "stars": 2224
           }
         },
         {
@@ -389,10 +389,10 @@
             "archived": false,
             "id": 364871330,
             "language": "C",
-            "last_commit": "2026-08-24T22:26:22Z",
+            "last_commit": "2026-08-25T03:07:57Z",
             "owner": "EdgeTX",
             "repo": "edgetx",
-            "stars": 2399
+            "stars": 2400
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2026-07-16T19:16:49Z",
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 9356
+            "stars": 9357
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2026-08-22T02:14:53Z",
             "owner": "opentrack",
             "repo": "opentrack",
-            "stars": 5073
+            "stars": 5074
           }
         },
         {
@@ -1287,10 +1287,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-24T20:50:27Z",
+            "last_commit": "2026-08-25T02:56:46Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4863
+            "stars": 4865
           }
         },
         {
@@ -1637,7 +1637,7 @@
                 "archived": false,
                 "id": 255865265,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:53:26Z",
+                "last_commit": "2026-08-25T00:52:49Z",
                 "owner": "gazebosim",
                 "repo": "gz-sim",
                 "stars": 1462
@@ -1689,7 +1689,7 @@
                 "archived": false,
                 "id": 48141669,
                 "language": "C",
-                "last_commit": "2026-08-24T13:17:58Z",
+                "last_commit": "2026-08-25T06:05:54Z",
                 "owner": "lyusupov",
                 "repo": "SoftRF",
                 "stars": 1005
@@ -1936,7 +1936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:35:09.455Z",
+    "last_updated": "2026-08-25T06:12:17.172Z",
     "original_repository": "Matthias84/awesome-flying-fpv",
     "original_repository_id": 531177089,
     "original_repository_sha": "2d1764ddf480e27f013efaab4b4be19047ada99c",
