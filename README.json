@@ -18,7 +18,8 @@
                 "owner": "tbs-trappy",
                 "repo": "source_one",
                 "stars": 632
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "WE-are-FPV",
                 "repo": "JeNo-5.1",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ps915",
                 "repo": "source_x",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "ps915",
                 "repo": "source_podracer",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": "Copters are built using different materials from alu / carbon profiles to CNC cuts to full 3D printed cases and have different configurations for different number of rotors (bi... octo):",
@@ -84,8 +88,9 @@
                 "last_commit": "2022-06-19T06:41:38Z",
                 "owner": "StephenCarlson",
                 "repo": "MiniHawk-VTOL",
-                "stars": 318
-              }
+                "stars": 319
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": "Vertical take-off and landing are air vehicles that transform from copter to a gliding wing, making it very easy to start/land but require a more complex mechanic and become a tip heavier than fixed wings.",
@@ -111,7 +116,8 @@
             "owner": "bitdump",
             "repo": "BLHeli",
             "stars": 2226
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "am32-firmware",
             "repo": "AM32",
             "stars": 927
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -141,7 +148,8 @@
             "owner": "mathiasvr",
             "repo": "bluejay",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -156,7 +164,8 @@
             "owner": "stylesuxx",
             "repo": "esc-configurator",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -171,7 +180,8 @@
             "owner": "davidmolony",
             "repo": "MESC_FOC_ESC",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Motor Control ⚙️"
@@ -188,11 +198,12 @@
             "archived": false,
             "id": 37060852,
             "language": "C",
-            "last_commit": "2026-08-26T20:25:08Z",
+            "last_commit": "2026-08-27T22:36:12Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11468
-          }
+            "stars": 11472
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -207,7 +218,8 @@
             "owner": "cleanflight",
             "repo": "cleanflight",
             "stars": 2732
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -221,8 +233,9 @@
             "last_commit": "2026-08-21T11:49:42Z",
             "owner": "paparazzi",
             "repo": "paparazzi",
-            "stars": 1709
-          }
+            "stars": 1708
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -237,7 +250,8 @@
             "owner": "nickrehm",
             "repo": "dRehmFlight",
             "stars": 1431
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -252,7 +266,8 @@
             "owner": "multiwii",
             "repo": "baseflight",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -267,7 +282,8 @@
             "owner": "emuflight",
             "repo": "EmuFlight",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -282,7 +298,8 @@
             "owner": "qqqlab",
             "repo": "madflight",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -297,7 +314,8 @@
             "owner": "librepilot",
             "repo": "LibrePilot",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -312,7 +330,8 @@
             "owner": "d-ronin",
             "repo": "dRonin",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -327,7 +346,8 @@
             "owner": "BossHobby",
             "repo": "QUICKSILVER",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -342,7 +362,8 @@
             "owner": "proficnc",
             "repo": "The-Cube",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -357,7 +378,8 @@
             "owner": "SparkyVT",
             "repo": "HPR-Rocket-Flight-Computer",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -372,7 +394,8 @@
             "owner": "rotorflight",
             "repo": "rotorflight",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Flight Control 👨‍✈️"
@@ -389,11 +412,12 @@
             "archived": false,
             "id": 364871330,
             "language": "C",
-            "last_commit": "2026-08-27T10:33:22Z",
+            "last_commit": "2026-08-28T06:32:49Z",
             "owner": "EdgeTX",
             "repo": "edgetx",
-            "stars": 2403
-          }
+            "stars": 2404
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -407,8 +431,9 @@
             "last_commit": "2026-07-23T21:10:23Z",
             "owner": "opentx",
             "repo": "opentx",
-            "stars": 2186
-          }
+            "stars": 2187
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -423,7 +448,8 @@
             "owner": "kkbin505",
             "repo": "Arduino-Transmitter-for-ELRS",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -438,7 +464,8 @@
             "owner": "kaack",
             "repo": "elrs-joystick-control",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -453,7 +480,8 @@
             "owner": "tbs-fpv",
             "repo": "freedomtx",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -468,7 +496,8 @@
             "owner": "Ingwie",
             "repo": "OpenAVRc_Hw",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -483,7 +512,8 @@
             "owner": "Matze-Jung",
             "repo": "opentx-lua-widgets",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -498,7 +528,8 @@
             "owner": "teckel12",
             "repo": "VTx",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -513,7 +544,8 @@
             "owner": "Matze-Jung",
             "repo": "opentx-lua-running-graphs",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -528,7 +560,8 @@
             "owner": "Matze-Jung",
             "repo": "betaflight-tx-lua-scripts",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -543,7 +576,8 @@
             "owner": "SpechtD",
             "repo": "OpenTX-Pong",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -558,7 +592,8 @@
             "owner": "JyeSmith",
             "repo": "inav-opentx-sounds",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "children": [
@@ -579,8 +614,9 @@
                     "last_commit": "2026-08-27T08:12:04Z",
                     "owner": "ExpressLRS",
                     "repo": "ExpressLRS",
-                    "stars": 5287
-                  }
+                    "stars": 5289
+                  },
+                  "first_seen": "2026-08-28T06:56:08.245Z"
                 }
               ],
               "repo_info": {
@@ -590,8 +626,9 @@
                 "last_commit": "2026-08-27T08:12:04Z",
                 "owner": "ExpressLRS",
                 "repo": "ExpressLRS",
-                "stars": 5287
-              }
+                "stars": 5289
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -606,7 +643,8 @@
                 "owner": "pascallanger",
                 "repo": "DIY-Multiprotocol-TX-Module",
                 "stars": 1891
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -617,11 +655,12 @@
                 "archived": false,
                 "id": 437472240,
                 "language": "C",
-                "last_commit": "2026-08-27T07:09:59Z",
+                "last_commit": "2026-08-28T06:03:02Z",
                 "owner": "olliw42",
                 "repo": "mLRS",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -636,7 +675,8 @@
                 "owner": "openLRSng",
                 "repo": "openLRSng",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -651,7 +691,8 @@
                 "owner": "RavenLRS",
                 "repo": "raven",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": "Hardware and firmware to establish custom radio links. Nowadays usually a bidirectional link, so pure TX / RX side.",
@@ -677,7 +718,8 @@
             "owner": "OpenHD",
             "repo": "OpenHD",
             "stars": 2651
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -688,11 +730,12 @@
             "archived": false,
             "id": 78682352,
             "language": "Python",
-            "last_commit": "2026-08-20T20:00:23Z",
+            "last_commit": "2026-08-27T14:22:39Z",
             "owner": "svpcom",
             "repo": "wfb-ng",
-            "stars": 1517
-          }
+            "stars": 1518
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -707,7 +750,8 @@
             "owner": "DroneBridge",
             "repo": "DroneBridge",
             "stars": 949
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -722,7 +766,8 @@
             "owner": "rodizio1",
             "repo": "EZ-WifiBroadcast",
             "stars": 897
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -737,7 +782,8 @@
             "owner": "OpenVTx",
             "repo": "OpenVTx",
             "stars": 486
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -752,7 +798,8 @@
             "owner": "fpv-wtf",
             "repo": "wtfos",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -767,7 +814,8 @@
             "owner": "RomanLut",
             "repo": "hx-esp32-cam-fpv",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -782,7 +830,8 @@
             "owner": "fpvout",
             "repo": "DigiView-SBC",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -797,7 +846,8 @@
             "owner": "OpenIPC",
             "repo": "sandbox-fpv",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -812,7 +862,8 @@
             "owner": "mrRobot62",
             "repo": "vtx_power_measure",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "VTX 📺"
@@ -832,8 +883,9 @@
             "last_commit": "2026-08-26T16:47:25Z",
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 9368
-          }
+            "stars": 9370
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -844,11 +896,12 @@
             "archived": false,
             "id": 9753283,
             "language": "C++",
-            "last_commit": "2026-08-22T02:14:53Z",
+            "last_commit": "2026-08-27T22:23:05Z",
             "owner": "opentrack",
             "repo": "opentrack",
-            "stars": 5076
-          }
+            "stars": 5078
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -863,7 +916,8 @@
             "owner": "olliw42",
             "repo": "storm32bgc",
             "stars": 763
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -878,7 +932,8 @@
             "owner": "headtracker",
             "repo": "HeadTracker",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -893,7 +948,8 @@
             "owner": "bluegreen-labs",
             "repo": "TetraPi",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Camera & Gimbals 🎥"
@@ -914,7 +970,8 @@
             "owner": "bo-rc",
             "repo": "ViconMAVLink",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "GPS 🛰️"
@@ -935,7 +992,8 @@
             "owner": "Qrome",
             "repo": "QLiteOSD",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Sensors 🌡️"
@@ -961,7 +1019,8 @@
                 "owner": "sheaivey",
                 "repo": "rx5808-pro-diversity",
                 "stars": 747
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "repo_info": {
@@ -972,7 +1031,8 @@
             "owner": "JyeSmith",
             "repo": "FENIX-rx5808-pro-diversity",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -987,7 +1047,8 @@
             "owner": "xythobuz",
             "repo": "rpi-rx5808-stream",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Video Receivers 📶"
@@ -1008,7 +1069,8 @@
             "owner": "raul-ortega",
             "repo": "u360gts",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1023,7 +1085,8 @@
             "owner": "zs6buj",
             "repo": "AntTracker",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1043,7 +1106,8 @@
                 "owner": "raul-ortega",
                 "repo": "amv-open360tracker",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1122,8 @@
                 "owner": "ericyao2013",
                 "repo": "amv-open360tracker-32bits",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "repo_info": {
@@ -1069,7 +1134,8 @@
             "owner": "SamuelBrucksch",
             "repo": "open360tracker",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Antennas and Trackers 📡"
@@ -1089,8 +1155,9 @@
             "last_commit": "2026-08-27T09:38:54Z",
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2407
-          }
+            "stars": 2406
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1172,8 @@
             "owner": "betaflight",
             "repo": "betaflight-tx-lua-scripts",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1188,8 @@
             "owner": "sparkfun",
             "repo": "OpenLog",
             "stars": 596
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1204,8 @@
             "owner": "Plasmatree",
             "repo": "PID-Analyzer",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1220,8 @@
             "owner": "teckel12",
             "repo": "LuaTelemetry",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1236,8 @@
             "owner": "ArduPilot",
             "repo": "UAVLogViewer",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1252,8 @@
             "owner": "openXsensor",
             "repo": "openXsensor",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1268,8 @@
             "owner": "thecognifly",
             "repo": "YAMSPy",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1284,8 @@
             "owner": "iNavFlight",
             "repo": "blackbox-log-viewer",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1300,8 @@
             "owner": "olliw42",
             "repo": "otxtelemetry",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1316,8 @@
             "owner": "iNavFlight",
             "repo": "blackbox-tools",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1332,8 @@
             "owner": "stronnag",
             "repo": "bbl2kml",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1348,8 @@
             "owner": "kristjanbjarni",
             "repo": "osd-subtitles",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Telemetry & Logs 📊"
@@ -1287,11 +1366,12 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T01:05:26Z",
+            "last_commit": "2026-08-27T20:44:51Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4873
-          }
+            "stars": 4876
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1386,8 @@
             "owner": "stronnag",
             "repo": "mwptools",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1402,8 @@
             "owner": "Midgrad",
             "repo": "Dreka",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1418,8 @@
             "owner": "danarrib",
             "repo": "BulletGCSS",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Mission Control & Basestation 🗺️"
@@ -1357,7 +1440,8 @@
             "owner": "ros",
             "repo": "ros",
             "stars": 3250
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1371,8 +1455,9 @@
             "last_commit": "2024-05-30T05:57:20Z",
             "owner": "dronekit",
             "repo": "dronekit-python",
-            "stars": 1927
-          }
+            "stars": 1926
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1387,7 +1472,8 @@
             "owner": "ochin-space",
             "repo": "ochin-CM4",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Companion Computers & Integration 💻"
@@ -1407,8 +1493,9 @@
             "last_commit": "2024-10-24T13:12:43Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "Fast-Planner",
-            "stars": 3386
-          }
+            "stars": 3387
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1510,8 @@
             "owner": "mit-acl",
             "repo": "faster",
             "stars": 1249
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1437,8 +1525,9 @@
             "last_commit": "2025-05-07T10:51:21Z",
             "owner": "ZhaoJ9014",
             "repo": "Anti-UAV",
-            "stars": 830
-          }
+            "stars": 831
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1449,11 +1538,12 @@
             "archived": false,
             "id": 21242489,
             "language": "Python",
-            "last_commit": "2026-08-27T06:01:12Z",
+            "last_commit": "2026-08-28T06:40:48Z",
             "owner": "hotosm",
             "repo": "openaerialmap",
-            "stars": 298
-          }
+            "stars": 299
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1558,8 @@
             "owner": "DroneDB",
             "repo": "DroneDB",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1574,8 @@
             "owner": "AlirezaShamsoshoara",
             "repo": "Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1498,7 +1590,8 @@
             "owner": "chuanenlin",
             "repo": "drone-net",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1606,8 @@
             "owner": "Call-for-Code",
             "repo": "DroneAid",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1528,7 +1622,8 @@
             "owner": "Theta-Limited",
             "repo": "OpenAthena-Legacy-Python",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1543,7 +1638,8 @@
             "owner": "robot-perception-group",
             "repo": "AirPose",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1558,7 +1654,8 @@
             "owner": "lironui",
             "repo": "ABCNet",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1573,7 +1670,8 @@
             "owner": "lironui",
             "repo": "BANet",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1686,8 @@
             "owner": "radekholy24",
             "repo": "aruco-landing",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         }
       ],
       "title": "Computer Vision 🤖"
@@ -1610,8 +1709,9 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18425
-              }
+                "stars": 18426
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1622,11 +1722,12 @@
                 "archived": false,
                 "id": 114565720,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:20:24Z",
+                "last_commit": "2026-08-27T18:26:52Z",
                 "owner": "JSBSim-Team",
                 "repo": "jsbsim",
                 "stars": 2216
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1637,11 +1738,12 @@
                 "archived": false,
                 "id": 255865265,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:07:20Z",
+                "last_commit": "2026-08-27T13:47:36Z",
                 "owner": "gazebosim",
                 "repo": "gz-sim",
                 "stars": 1469
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1656,7 +1758,8 @@
                 "owner": "PX4",
                 "repo": "jMAVSim",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1671,7 +1774,8 @@
                 "owner": "Rowlhouse",
                 "repo": "PicaSim",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": "Before you damage any hardware you can learn to avoid common pitfalls and train by virtual flights using your handhelt TX. Other allow to test / benchmark autopilots to work in controlled environments.\nThe most consumer friendly trainer simulators are commercial, but available for Linux, macOS as well (Freerider Recarged, Liftoff, DRL Sim, Velocidrone.",
@@ -1693,7 +1797,8 @@
                 "owner": "lyusupov",
                 "repo": "SoftRF",
                 "stars": 1007
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1708,7 +1813,8 @@
                 "owner": "stratux",
                 "repo": "stratux",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1723,7 +1829,8 @@
                 "owner": "stronnag",
                 "repo": "mwptools",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1738,7 +1845,8 @@
                 "owner": "ArduPilot",
                 "repo": "ArduRemoteID",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1753,7 +1861,8 @@
                 "owner": "OlivierC-FR",
                 "repo": "ESP32-INAV-Radar",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1768,7 +1877,8 @@
                 "owner": "sxjack",
                 "repo": "unix_rid_capture",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": "We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.",
@@ -1790,7 +1900,8 @@
                 "owner": "RUB-SysSec",
                 "repo": "DroneSecurity",
                 "stars": 1309
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1805,7 +1916,8 @@
                 "owner": "jjshoots",
                 "repo": "RemoteIDSpoofer",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1820,7 +1932,8 @@
                 "owner": "kitoweeknd",
                 "repo": "RFUAV",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1835,7 +1948,8 @@
                 "owner": "cyber-defence-campus",
                 "repo": "RemoteIDReceiver",
                 "stars": 303
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             },
             {
               "node_type": "item",
@@ -1850,7 +1964,8 @@
                 "owner": "aliasrobotics",
                 "repo": "RVD",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": "Radio links per se are unsafe and can easily be jammed.",
@@ -1881,7 +1996,8 @@
                 "owner": "RotorHazard",
                 "repo": "RotorHazard",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "repo_info": {
@@ -1892,7 +2008,8 @@
             "owner": "scottgchin",
             "repo": "delta5_race_timer",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "node_type": "item",
@@ -1907,7 +2024,8 @@
             "owner": "SeekND",
             "repo": "CaptureTheFlag",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:56:08.245Z"
         },
         {
           "children": [
@@ -1924,7 +2042,8 @@
                 "owner": "rahulsarchive",
                 "repo": "4AxisFoamCutter",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T06:56:08.245Z"
             }
           ],
           "description": null,
@@ -1936,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:57.008Z",
+    "last_updated": "2026-08-28T06:56:08.245Z",
     "original_repository_info": {
       "archived": false,
       "id": 531177089,
