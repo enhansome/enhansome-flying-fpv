@@ -293,7 +293,7 @@ This is more professional equipment to do beyond VLOS flights and not needed for
 
 Sensor values and control information are shared via common serial protocols which can be recorded onboard (blackbox) on internal SD cards at FC, or transferred to your TX handset or Groundstation. Useful to find lost drones, as well as debug and tune PID and flight behavior
 
-* [MAVlink](https://github.com/mavlink/mavlink) ⭐ 2,406 | 🐛 117 | 🌐 Python | 📅 2026-08-27 - Modern extensible protocol from hobbiests ... commercial UAV.
+* [MAVlink](https://github.com/mavlink/mavlink) ⭐ 2,406 | 🐛 118 | 🌐 Python | 📅 2026-08-27 - Modern extensible protocol from hobbiests ... commercial UAV.
 * [betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts) ⭐ 724 | 🐛 9 | 🌐 Lua | 📅 2026-08-09 - Script to show telemetry and control e.g. CAM, VTX settings.
 * [OpenLog](https://github.com/sparkfun/OpenLog) ⭐ 596 | 🐛 22 | 🌐 C++ | 📅 2026-04-28 - With [blackbox](https://github.com/thenickdude/blackbox/) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2015-01-14 firmware for blackbox data recorder (today usually part of main FC).
 * [PID-Analyzer](https://github.com/Plasmatree/PID-Analyzer) ⭐ 428 | 🐛 34 | 🌐 Python | 📅 2021-03-04 - Read blackbox and tune PID control variables.
@@ -378,7 +378,7 @@ The most consumer friendly trainer simulators are commercial, but available for 
 
 * [AirSim](https://github.com/microsoft/AirSim) ⭐ 18,427 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - By Microsoft for algorithm testing.
 * [JSBsim](https://github.com/JSBSim-Team/jsbsim) ⭐ 2,217 | 🐛 48 | 🌐 C++ | 📅 2026-08-27 - With bindings to Python, Matlab.
-* [GAZEBOsim](https://github.com/gazebosim/gz-sim) ⭐ 1,471 | 🐛 616 | 🌐 C++ | 📅 2026-08-29 - Multi robot.
+* [GAZEBOsim](https://github.com/gazebosim/gz-sim) ⭐ 1,471 | 🐛 615 | 🌐 C++ | 📅 2026-08-29 - Multi robot.
 * [jMAVSim](https://github.com/PX4/jMAVSim) ⭐ 107 | 🐛 16 | 🌐 Java | 📅 2026-01-29 - For Mavlink.
 * [Picasim](https://github.com/Rowlhouse/PicaSim) ⭐ 36 | 🐛 3 | 🌐 C++ | 📅 2026-05-16 - For rc planes, closed source, sucessor of SSS.
 * [crrcsim](https://sourceforge.net/projects/crrcsim/) - For rc airplanes, 2018.
