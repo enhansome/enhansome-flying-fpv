@@ -167,7 +167,7 @@
             "open_issues": 411,
             "owner": "bitdump",
             "repo": "BLHeli",
-            "stars": 2230,
+            "stars": 2231,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -185,10 +185,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-11T23:35:45Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "am32-firmware",
             "repo": "AM32",
-            "stars": 950,
+            "stars": 951,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -209,7 +209,7 @@
             "open_issues": 23,
             "owner": "mathiasvr",
             "repo": "bluejay",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "bldc",
               "blheli",
@@ -239,7 +239,7 @@
             "open_issues": 34,
             "owner": "stylesuxx",
             "repo": "esc-configurator",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "am32",
               "blheli",
@@ -292,11 +292,11 @@
             "id": 37060852,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T11:03:54Z",
-            "open_issues": 361,
+            "last_commit": "2026-09-15T21:19:39Z",
+            "open_issues": 363,
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11533,
+            "stars": 11540,
             "topics": [
               "betaflight",
               "cleanflight",
@@ -436,8 +436,8 @@
             "id": 197006581,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T22:42:31Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-15T20:19:05Z",
+            "open_issues": 42,
             "owner": "emuflight",
             "repo": "EmuFlight",
             "stars": 505,
@@ -572,7 +572,7 @@
             "id": 198504140,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-14T13:25:38Z",
+            "last_commit": "2026-09-15T13:36:47Z",
             "open_issues": 13,
             "owner": "BossHobby",
             "repo": "QUICKSILVER",
@@ -678,11 +678,11 @@
             "id": 364871330,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-15T01:15:50Z",
-            "open_issues": 779,
+            "last_commit": "2026-09-15T20:57:25Z",
+            "open_issues": 783,
             "owner": "EdgeTX",
             "repo": "edgetx",
-            "stars": 2415,
+            "stars": 2417,
             "topics": [
               "fpv-racing",
               "hacktoberfest",
@@ -732,7 +732,7 @@
             "open_issues": 4,
             "owner": "kkbin505",
             "repo": "Arduino-Transmitter-for-ELRS",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "arduino"
             ]
@@ -1000,7 +1000,7 @@
                     "open_issues": 65,
                     "owner": "ExpressLRS",
                     "repo": "ExpressLRS",
-                    "stars": 5321,
+                    "stars": 5323,
                     "topics": [
                       "drone",
                       "esp32",
@@ -1029,7 +1029,7 @@
                 "open_issues": 65,
                 "owner": "ExpressLRS",
                 "repo": "ExpressLRS",
-                "stars": 5321,
+                "stars": 5323,
                 "topics": [
                   "drone",
                   "esp32",
@@ -1204,7 +1204,7 @@
             "open_issues": 23,
             "owner": "svpcom",
             "repo": "wfb-ng",
-            "stars": 1532,
+            "stars": 1533,
             "topics": [
               "camera",
               "fpv",
@@ -1471,7 +1471,7 @@
             "open_issues": 90,
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 9496,
+            "stars": 9500,
             "topics": [
               "fpv",
               "gopro",
@@ -1891,8 +1891,8 @@
             "id": 2195723,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T01:00:13Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-16T01:18:13Z",
+            "open_issues": 117,
             "owner": "mavlink",
             "repo": "mavlink",
             "stars": 2429,
@@ -2066,7 +2066,7 @@
             "open_issues": 37,
             "owner": "openXsensor",
             "repo": "openXsensor",
-            "stars": 188,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -2248,11 +2248,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T22:36:06Z",
-            "open_issues": 1041,
+            "last_commit": "2026-09-16T00:12:42Z",
+            "open_issues": 1044,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4932,
+            "stars": 4937,
             "topics": [
               "ardupilot",
               "drone",
@@ -2448,7 +2448,7 @@
             "open_issues": 84,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "Fast-Planner",
-            "stars": 3400,
+            "stars": 3403,
             "topics": [
               "aerial-robotics",
               "autonomous-navigation",
@@ -2503,7 +2503,7 @@
             "open_issues": 33,
             "owner": "ZhaoJ9014",
             "repo": "Anti-UAV",
-            "stars": 844,
+            "stars": 845,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -2809,11 +2809,11 @@
                 "id": 81887991,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-30T19:34:07Z",
+                "last_commit": "2026-09-15T16:17:06Z",
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18476,
+                "stars": 18481,
                 "topics": [
                   "ai",
                   "airsim",
@@ -2848,11 +2848,11 @@
                 "id": 114565720,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-13T10:10:03Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-15T12:19:05Z",
+                "open_issues": 51,
                 "owner": "JSBSim-Team",
                 "repo": "jsbsim",
-                "stars": 2241,
+                "stars": 2244,
                 "topics": [
                   "aerospace-engineering",
                   "aircraft",
@@ -2881,8 +2881,8 @@
                 "id": 255865265,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T00:53:41Z",
-                "open_issues": 628,
+                "last_commit": "2026-09-15T19:39:26Z",
+                "open_issues": 626,
                 "owner": "gazebosim",
                 "repo": "gz-sim",
                 "stars": 1502,
@@ -3024,7 +3024,7 @@
                 "open_issues": 47,
                 "owner": "stratux",
                 "repo": "stratux",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:08.245Z"
@@ -3226,7 +3226,7 @@
                 "open_issues": 5,
                 "owner": "cyber-defence-campus",
                 "repo": "RemoteIDReceiver",
-                "stars": 306,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:08.245Z"
@@ -3297,8 +3297,8 @@
                 "id": 166819873,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T00:19:10Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-15T06:13:24Z",
+                "open_issues": 67,
                 "owner": "RotorHazard",
                 "repo": "RotorHazard",
                 "stars": 262,
@@ -3409,7 +3409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:28:11.637Z",
+    "last_updated": "2026-09-16T01:25:19.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of free software and hardware to build remote controlled copters and planes",
