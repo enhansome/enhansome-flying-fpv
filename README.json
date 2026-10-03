@@ -293,10 +293,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T06:24:04Z",
-            "open_issues": 156,
+            "open_issues": 155,
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11604,
+            "stars": 11605,
             "topics": [
               "betaflight",
               "cleanflight",
@@ -337,7 +337,7 @@
         {
           "node_type": "item",
           "title": "Paparazzi UAV",
-          "description": "?.",
+          "description": "paparazzi/paparazzi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "QUICKSILVER firmware",
-          "description": "?.",
+          "description": "BossHobby/QUICKSILVER",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,7 +572,7 @@
             "id": 198504140,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:54:30Z",
+            "last_commit": "2026-10-03T04:42:21Z",
             "open_issues": 13,
             "owner": "BossHobby",
             "repo": "QUICKSILVER",
@@ -678,8 +678,8 @@
             "id": 364871330,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-03T01:38:55Z",
-            "open_issues": 767,
+            "last_commit": "2026-10-03T03:30:08Z",
+            "open_issues": 768,
             "owner": "EdgeTX",
             "repo": "edgetx",
             "stars": 2432,
@@ -1000,7 +1000,7 @@
                     "open_issues": 66,
                     "owner": "ExpressLRS",
                     "repo": "ExpressLRS",
-                    "stars": 5366,
+                    "stars": 5365,
                     "topics": [
                       "drone",
                       "esp32",
@@ -1029,7 +1029,7 @@
                 "open_issues": 66,
                 "owner": "ExpressLRS",
                 "repo": "ExpressLRS",
-                "stars": 5366,
+                "stars": 5365,
                 "topics": [
                   "drone",
                   "esp32",
@@ -1204,7 +1204,7 @@
             "open_issues": 23,
             "owner": "svpcom",
             "repo": "wfb-ng",
-            "stars": 1548,
+            "stars": 1550,
             "topics": [
               "camera",
               "fpv",
@@ -1471,7 +1471,7 @@
             "open_issues": 103,
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 9555,
+            "stars": 9556,
             "topics": [
               "fpv",
               "gopro",
@@ -1663,7 +1663,7 @@
             {
               "node_type": "item",
               "title": "rx5808 pro divesity",
-              "description": null,
+              "description": "sheaivey/rx5808-pro-diversity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2521,7 +2521,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T22:03:40Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "hotosm",
             "repo": "openaerialmap",
             "stars": 306,
@@ -2813,7 +2813,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18532,
+                "stars": 18531,
                 "topics": [
                   "ai",
                   "airsim",
@@ -3409,7 +3409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:57:06.311Z",
+    "last_updated": "2026-10-03T04:45:09.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of free software and hardware to build remote controlled copters and planes",
