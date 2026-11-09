@@ -167,7 +167,7 @@
             "open_issues": 411,
             "owner": "bitdump",
             "repo": "BLHeli",
-            "stars": 2240,
+            "stars": 2239,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -184,8 +184,8 @@
             "id": 674842112,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T17:32:01Z",
-            "open_issues": 128,
+            "last_commit": "2026-11-08T17:36:50Z",
+            "open_issues": 129,
             "owner": "am32-firmware",
             "repo": "AM32",
             "stars": 1027,
@@ -209,7 +209,7 @@
             "open_issues": 23,
             "owner": "mathiasvr",
             "repo": "bluejay",
-            "stars": 565,
+            "stars": 564,
             "topics": [
               "bldc",
               "blheli",
@@ -292,11 +292,11 @@
             "id": 37060852,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T19:25:08Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-08T21:23:02Z",
+            "open_issues": 179,
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11753,
+            "stars": 11757,
             "topics": [
               "betaflight",
               "cleanflight",
@@ -322,7 +322,7 @@
             "open_issues": 3,
             "owner": "cleanflight",
             "repo": "cleanflight",
-            "stars": 2739,
+            "stars": 2740,
             "topics": [
               "betaflight",
               "cleanflight",
@@ -346,8 +346,8 @@
             "id": 1068018,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-07T23:42:24Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-09T00:28:28Z",
+            "open_issues": 75,
             "owner": "paparazzi",
             "repo": "paparazzi",
             "stars": 1722,
@@ -379,7 +379,7 @@
             "open_issues": 5,
             "owner": "nickrehm",
             "repo": "dRehmFlight",
-            "stars": 1475,
+            "stars": 1476,
             "topics": [
               "airplane",
               "arduino",
@@ -475,8 +475,8 @@
             "id": 197006581,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T21:52:41Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-08T23:39:11Z",
+            "open_issues": 65,
             "owner": "emuflight",
             "repo": "EmuFlight",
             "stars": 507,
@@ -627,7 +627,7 @@
             "open_issues": 1,
             "owner": "SparkyVT",
             "repo": "HPR-Rocket-Flight-Computer",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "data-logging",
               "gnss",
@@ -678,11 +678,11 @@
             "id": 364871330,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-08T01:13:50Z",
-            "open_issues": 772,
+            "last_commit": "2026-11-09T00:08:02Z",
+            "open_issues": 773,
             "owner": "EdgeTX",
             "repo": "edgetx",
-            "stars": 2470,
+            "stars": 2476,
             "topics": [
               "fpv-racing",
               "hacktoberfest",
@@ -708,7 +708,7 @@
             "open_issues": 295,
             "owner": "opentx",
             "repo": "opentx",
-            "stars": 2189,
+            "stars": 2190,
             "topics": [
               "firmware",
               "transmitter"
@@ -996,11 +996,11 @@
                     "id": 151064439,
                     "language": "C",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T18:53:25Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-08T07:22:01Z",
+                    "open_issues": 95,
                     "owner": "ExpressLRS",
                     "repo": "ExpressLRS",
-                    "stars": 5470,
+                    "stars": 5475,
                     "topics": [
                       "drone",
                       "esp32",
@@ -1025,11 +1025,11 @@
                 "id": 151064439,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T18:53:25Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-08T07:22:01Z",
+                "open_issues": 95,
                 "owner": "ExpressLRS",
                 "repo": "ExpressLRS",
-                "stars": 5470,
+                "stars": 5475,
                 "topics": [
                   "drone",
                   "esp32",
@@ -1084,11 +1084,11 @@
                 "id": 437472240,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T15:34:35Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-08T14:47:45Z",
+                "open_issues": 15,
                 "owner": "olliw42",
                 "repo": "mLRS",
-                "stars": 629,
+                "stars": 631,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:08.245Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 37,
             "owner": "fpv-wtf",
             "repo": "wtfos",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -1468,10 +1468,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T00:37:15Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "gyroflow",
             "repo": "gyroflow",
-            "stars": 9691,
+            "stars": 9697,
             "topics": [
               "fpv",
               "gopro",
@@ -1505,7 +1505,7 @@
             "open_issues": 574,
             "owner": "opentrack",
             "repo": "opentrack",
-            "stars": 5260,
+            "stars": 5266,
             "topics": [
               "c-plus-plus",
               "c-plus-plus-17",
@@ -1556,7 +1556,7 @@
             "open_issues": 55,
             "owner": "headtracker",
             "repo": "HeadTracker",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -1804,7 +1804,7 @@
             "open_issues": 1,
             "owner": "zs6buj",
             "repo": "AntTracker",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -1892,10 +1892,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T06:13:09Z",
-            "open_issues": 131,
+            "open_issues": 130,
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2475,
+            "stars": 2474,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -1944,7 +1944,7 @@
             "open_issues": 22,
             "owner": "sparkfun",
             "repo": "OpenLog",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "data-logging",
               "sparkfun-products"
@@ -2248,8 +2248,8 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T00:21:51Z",
-            "open_issues": 485,
+            "last_commit": "2026-11-08T14:46:34Z",
+            "open_issues": 486,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
             "stars": 5099,
@@ -2503,7 +2503,7 @@
             "open_issues": 34,
             "owner": "ZhaoJ9014",
             "repo": "Anti-UAV",
-            "stars": 887,
+            "stars": 889,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:08.245Z"
@@ -2813,7 +2813,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18607,
+                "stars": 18605,
                 "topics": [
                   "ai",
                   "airsim",
@@ -2849,10 +2849,10 @@
                 "language": "C++",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-29T09:47:21Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "JSBSim-Team",
                 "repo": "jsbsim",
-                "stars": 2338,
+                "stars": 2339,
                 "topics": [
                   "aerospace-engineering",
                   "aircraft",
@@ -2881,8 +2881,8 @@
                 "id": 255865265,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T06:57:42Z",
-                "open_issues": 673,
+                "last_commit": "2026-11-08T21:11:49Z",
+                "open_issues": 671,
                 "owner": "gazebosim",
                 "repo": "gz-sim",
                 "stars": 1570,
@@ -2982,7 +2982,7 @@
                 "open_issues": 0,
                 "owner": "lyusupov",
                 "repo": "SoftRF",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": [
                   "ads-b",
                   "aprs",
@@ -3301,7 +3301,7 @@
                 "open_issues": 71,
                 "owner": "RotorHazard",
                 "repo": "RotorHazard",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:08.245Z"
@@ -3409,7 +3409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:29:23.731Z",
+    "last_updated": "2026-11-09T02:39:31.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of free software and hardware to build remote controlled copters and planes",
@@ -3421,7 +3421,7 @@
       "open_issues": 7,
       "owner": "Matthias84",
       "repo": "awesome-flying-fpv",
-      "stars": 726,
+      "stars": 727,
       "topics": [
         "aerial",
         "airplanes",
